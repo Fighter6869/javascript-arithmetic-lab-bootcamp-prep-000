@@ -19,9 +19,9 @@ function dec(n)
 }
 function makeInt(n)
 {
-  parseInt("n",n)
   return n;
 }
+
  function makeInt(n){
    parseFloat(n = 0);
    return n;
