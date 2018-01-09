@@ -22,7 +22,7 @@ function makeInt(n)
   parseInt("20202",10);
   return n;
 }
- function makeInt(n){
+ function makeInt(n,base){
    parseInt("base" , 10);
    return n;
  }
