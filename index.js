@@ -23,7 +23,7 @@ function makeInt(n)
   return n
 }
  function makeInt(n){
-   parseInt("n" , base);
+   parseInt("100" , 10);
    return n; 
    
  }
