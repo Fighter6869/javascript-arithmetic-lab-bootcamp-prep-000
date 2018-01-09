@@ -19,7 +19,7 @@ function dec(n)
 }
 function makeInt(n)
 {
-  parseInt("20202",10);
+  parseInt("20",10);
   return n;
 }
  function makeInt(n){
