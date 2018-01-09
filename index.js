@@ -17,13 +17,12 @@ function dec(n)
 {
   return n -= 1; 
 }
-function makeInt(n)
+function makeInt(a)
 {
-  return parseInt(n,10)
-  return n;
+  return (a);
 }
 
  function makeInt(n){
-  return parseFloat(n);
+  return parseFloat(n = 0);
   
  }
