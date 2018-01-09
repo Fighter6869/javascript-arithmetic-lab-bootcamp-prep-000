@@ -22,5 +22,6 @@ function makeInt(n)
   return n;
 }
  function makeInt(n){
+   parseFloat(n = 0);
    return n;
  }
