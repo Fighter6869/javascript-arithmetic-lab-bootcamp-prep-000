@@ -23,6 +23,6 @@ function makeInt(n)
 }
 
  function makeInt(n){
-   parseFloat(n = 0);
+   parseFloat(n === 0);
    return n;
  }
